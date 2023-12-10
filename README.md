@@ -14,3 +14,6 @@ Technologies:
 ✨ WKWebView
 ✨ MVVM design pattern
 
+<img width="953" alt="Screenshot 2023-12-10 at 11 53 32" src="https://github.com/cerennnnn/RecipeApp/assets/97634053/716714dc-95e9-45c8-8b0a-86b9507cdd0f">
+
+<img width="742" alt="Screenshot 2023-12-10 at 11 54 04" src="https://github.com/cerennnnn/RecipeApp/assets/97634053/d0697fc7-369d-422e-9577-8131af7a2b90">
